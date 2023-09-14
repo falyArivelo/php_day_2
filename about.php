@@ -4,11 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title>About</title>
 </head>
 
 <body>
-    <h2>Welcome to my PHP formation </h2>
+
+    <h2>About my formation </h2>
+
 </body>
 
 </html>

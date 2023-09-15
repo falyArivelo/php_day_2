@@ -9,6 +9,7 @@
 
 <body>
     <h2>Welcome to my PHP formation </h2>
+
 </body>
 
 </html>

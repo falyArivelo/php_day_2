@@ -7,6 +7,7 @@ $y = 1;
 
 //ET
 echo "--AND--";
+echo "<br>";
 
 if ($x == 0 && $y == 0) {
     echo 0;
@@ -22,6 +23,7 @@ echo "<br>";
 
 //OU
 echo "--OR--";
+echo "<br>";
 
 
 if ($x == 0 && $y == 0) {
@@ -38,6 +40,7 @@ echo "<br>";
 
 //NOT
 echo "--NOT--";
+echo "<br>";
 
 
 if ($x == 0) {
@@ -51,6 +54,7 @@ echo "<br>";
 
 //XOR
 echo "--XOR--";
+echo "<br>";
 
 
 if ($x == 0 && $y == 0) {

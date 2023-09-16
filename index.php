@@ -9,7 +9,7 @@
 
 <body>
     <h2>Welcome to my PHP formation </h2>
-
+    <a href="process.php">process</a>
 </body>
 
 </html>
